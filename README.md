@@ -1,2 +1,3 @@
 # audio_player
  This project is a simple Java-based audio player that allows users to play songs from two playlists: Hip-Hop and Sad Songs. It offers several playback controls:  Playlists: Users can select and switch between two playlists. Song Navigation: Navigate between songs using "Next" and "Previous" options. Playback Controls: +10 Seconds: Skip forward by 10 seconds. -10 Seconds: Rewind by 10 seconds. Reset: Restart the current song. Switch Playlists: Users can switch to the next playlist during playback. Quit: Exit the program. The player uses Java's Sound API for audio playback and manages song lists using LinkedList. Users interact via text-based commands in a console.
+///
